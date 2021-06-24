@@ -1,6 +1,6 @@
 {
-  "name": "kyy-react-native-picker",
-  "version": "4.3.7",
+  "name": "react-native-picker-kyy",
+  "version": "0.0.1",
   "description": "A Native Picker with high performance.",
   "main": "index.js",
   "types": "index.d.ts",
